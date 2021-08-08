@@ -476,7 +476,7 @@
   height: 1080px;
   -webkit-filter: blur(50%);
           filter: blur(50%);
-  background-image: url("/images/bg1.jpeg");
+  background-image: url("../images/bg1.png");
   background-repeat: none;
   mix-blend-mode: soft-light;
 }
